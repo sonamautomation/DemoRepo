@@ -6,4 +6,10 @@ public class LoginPage {
 	{
 		System.out.println("Login page");
 	}
+	
+	public void test4()
+	{
+		System.out.println("Login successfully");
+	}
 }
+
